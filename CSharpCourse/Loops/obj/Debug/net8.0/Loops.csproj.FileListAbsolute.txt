@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\bin\Debug\net8.0\Loops.exe
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\bin\Debug\net8.0\Loops.deps.json
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\bin\Debug\net8.0\Loops.dll
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\bin\Debug\net8.0\Loops.pdb
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\obj\Debug\net8.0\Loops.dll
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\obj\Debug\net8.0\Loops.pdb
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\C#\CSharpCourse\Loops\obj\Debug\net8.0\ref\Loops.dll
